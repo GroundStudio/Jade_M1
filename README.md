@@ -8,7 +8,7 @@ Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.
 
 Description
 -------------------
-ATMEGA2560 based development board with 256kBytes of In-System Self-Programmable Flash program memory, 4kBytes EEPROM, 8kBytes Internal SRAM, 15 PWM Channels, 70 Digital Pins including 16 ADC Pins with 10 bit Resolution and HT42B534 for USB comunication.
+ATMEGA2560 based development board with 256kBytes of In-System Self-Programmable Flash program memory, 4kBytes EEPROM, 8kBytes Internal SRAM, 15 PWM Channels, 70 Digital Pins including 16 ADC Pins with 10 bit Resolution and HT42B534 for USB communication.
 
 Contents
 -------------------
