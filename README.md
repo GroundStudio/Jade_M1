@@ -30,4 +30,11 @@ This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4
 
 Please consider contributing back to this project or others to help the open-source hardware community continue to thrive and grow!
 
+Certifications:
+
+[Open Source Hardware Association](https://certification.oshwa.org/ro000002.html)   
+   
+[![certification-mark-RO000002-wide](https://github.com/GroundStudio/Jade_M1/assets/77836107/743bb573-1023-41b2-a042-3dd7eb2873a2)
+](https://certification.oshwa.org/ro000002.html)
+
 
